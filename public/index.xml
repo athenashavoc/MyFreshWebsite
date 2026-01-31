@@ -6,8 +6,18 @@
     <description>Recent content on Site of Testing</description>
     <generator>Hugo -- 0.155.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Jan 2026 21:00:56 -0800</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 21:58:17 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Fri, 30 Jan 2026 21:58:17 -0800</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;h2 id=&#34;stuff-goes-here&#34;&gt;Stuff Goes Here&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://forcemipsum.com/&#34;&gt;Forcem Ipsumthe | Star Wars text generator&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Echo Three to Echo Seven. Han, old buddy, do you read me? Loud and clear, kid. What&amp;rsquo;s up? Well, I finished my circle. I don&amp;rsquo;t pick up any life readings.&lt;/p&gt;
+&lt;p&gt;Admiral Ozzel came out of light-speed too close to the system. He felt surprise was wiser. He is as clumsy as he is stupid. General, prepare your troops for a surface attack.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Typography</title>
       <link>http://localhost:1313/posts/typography/</link>

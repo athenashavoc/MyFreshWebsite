@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Site of Testing</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Site of Testing</description>
+    <generator>Hugo -- 0.155.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jan 2026 21:00:56 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Typography</title>
+      <link>http://localhost:1313/posts/typography/</link>
+      <pubDate>Fri, 30 Jan 2026 21:00:56 -0800</pubDate>
+      <guid>http://localhost:1313/posts/typography/</guid>
+      <description>&lt;h1 id=&#34;headings-one&#34;&gt;Headings One&lt;/h1&gt;
+&lt;p&gt;But at this question, Queequeg, who had twice or thrice before taken
+part in similar ceremonies, looked no ways abashed; but taking the
+offered pen, copied upon the paper, in the proper place, an exact
+counterpart of a queer round figure which was tattooed upon his arm; so
+that through Captain Peleg&amp;rsquo;s obstinate mistake touching his appellative,
+it stood something like this:—&lt;/p&gt;
+&lt;p&gt;Quohog. his X mark.&lt;/p&gt;
+&lt;h2 id=&#34;heading-two&#34;&gt;Heading Two&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;From the moment of the first signs of it, a man would be dead in an
+hour. Some lasted for several hours. Many died within ten or fifteen
+minutes of the appearance of the first signs.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
